@@ -1,0 +1,18 @@
+{
+  "canisters": {
+    "asset_cannister_backend": {
+      "source": [
+        "assets/src"
+      ],
+      "type": "assets"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
