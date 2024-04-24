@@ -1,0 +1,1 @@
+# C# Client accessing custom hashing canister
