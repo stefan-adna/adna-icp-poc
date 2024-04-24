@@ -1,0 +1,1 @@
+# C# Client accessing asset canister
