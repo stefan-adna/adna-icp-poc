@@ -4,7 +4,7 @@ This little c# console app demonstrates how you can access a custom created cani
 ## Usage
 Make sure the `hashing canister` (found in src/Hashing/hashing_canister) is running and the `CanisterId` is set in the `appsettings.json` file.
 
-![](pictures/appsettings.png)
+![](pictures/appsettings.PNG)
 
 # Developer notes
 We have used the [ICP.NET](https://github.com/BoomDAO/ICP.NET) library to generate the client code. 
@@ -80,4 +80,4 @@ await client.StoreRootHash("0x9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd1
 ```
 
 Testing
-![](pictures/testing.png)
+![](pictures/testing.PNG)
