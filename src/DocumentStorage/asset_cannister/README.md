@@ -18,3 +18,5 @@ In the client app you need the provide the private key `*.pem` file to successfu
 ```
 dfx identity export myidentity >myidentity.pem
 ```
+
+![](pictures/deploy.PNG)
